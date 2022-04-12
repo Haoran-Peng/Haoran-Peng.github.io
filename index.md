@@ -1,4 +1,5 @@
-# Haoran Peng (彭浩然)
+# Haoran Peng (彭浩然) 
+8-)
 
 ![enter image description here](https://www.google.com/url?sa=i&url=https://www.tupianzj.com/&psig=AOvVaw2UVl3dsa1O6r4UZ4cwVhSo&ust=1649848812892000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCMDD5vWzjvcCFQAAAAAdAAAAABAO)Ph.D. Candidate
 Department of Electrical and Computer Engineering
@@ -18,16 +19,16 @@ I have developed a particular interest in the field of ***Machine Learning for W
 # Education
 
 **National Yang Ming Chiao Tung University, Taiwan**
-*-Ph.D. Candidate in Electrical and Computer Engineering* 
-*-(MS Straight to Doctoral Program in Sep. 2020)*
- <p align="right">Sep. 2018 - Present</p>
+>*Ph.D. Candidate in Electrical and Computer Engineering* 
+>*(**MS Straight to Doctoral Program in Sep. 2020**)*
+<p align="right">Sep. 2018 - Present</p>
  
 **Rochester Institute of Technology, NY, USA**
-*-Visiting Research Student in CyberSecurity*
+>*Visiting Research Student in CyberSecurity*
 <p align="right">Jun. 2021 - Aug. 2021</p>
 
 **University of Electronic Science and Technology of China, Chengdu**
-*-Bachelor of Engineering in Software Engineering (Embedded Systems)* 
+>*Bachelor of Engineering in Software Engineering (Embedded Systems)* 
 <p align="right">Sep. 2011 - Jul. 2015</p>
 
 # Publications
