@@ -16,14 +16,14 @@ Hi! I'm a forth (final)-year Ph.D. student in the Department of Electrical and C
 I have developed a particular interest in the field of ***Machine Learning for Wireless Communications***, on which I have published several related articles.
 
 # Education
-**National Yang Ming Chiao Tung University, Taiwan**  *Sep. 2018 - Present* 
+**National Yang Ming Chiao Tung University, Taiwan**  <p align="right">*Sep. 2018 - Present*</p>
 *-Ph.D. Candidate in Electrical and Computer Engineering* 
 *-(MS Straight to Doctoral Program in Sep. 2020)* 
 
-**Rochester Institute of Technology, NY, USA** *Jun. 2021 - Aug. 2021*
+**Rochester Institute of Technology, NY, USA** <p align="right">*Jun. 2021 - Aug. 2021*</p>
 *-Visiting Research Student in CyberSecurity* 
 
-**University of Electronic Science and Technology of China, Chengdu** *Sep. 2011 - Jul. 2015*
+**University of Electronic Science and Technology of China, Chengdu** <p align="right">*Sep. 2011 - Jul. 2015*</p>
 *-Bachelor of Engineering in Software Engineering (Embedded Systems)* 
 
 # Publications
@@ -43,10 +43,11 @@ I have developed a particular interest in the field of ***Machine Learning for W
 
  1. **Haoran Peng**, Li-Chun Wang, Geoffrey Ye Li, and Ang-Hsun Tsai, “Long-Lasting UAV-aided RIS Communications based on SWIPT”, in Proc. IEEE Wireless Commun. Netw. Conf. (WCNC), Austin, USA, Apr., 2022.
  
- 3. **Haoran Peng**, Chao Chen, C. Lai, Li-Chun Wang, and Zhu Han, “A Predictive On-Demand Placement of UAV Base Stations Using Echo State Network,” in Proc. IEEE/CIC Int. Conf. Commun. China (ICCC), Changchun, China, Aug. 2019.
- 4. Li-Chun Wang, **Haoran Peng**, Cheng-Sen Huang, and Ang-Hsun Tsai, “Latest Advances in Spectrum Management for 6G Communications”, in Proc. IEEE Wireless Opt. Commun. Conf. (WOCC), Taipei, Taiwan, Oct. 2021.
- 5. **Haoran Peng**, Hanif Rahbari, Shanchieh Jay Yang, and Li-Chun Wang, “Spectrum Sharing Security in Multi-Agent Reinforcement Learning-Based Vehicular Networks”, has been submitted to 2022 IEEE Glob. Commun. Conf. (GLOBECOM) *(under review)*.
-
+ 2. **Haoran Peng**, Chao Chen, C. Lai, Li-Chun Wang, and Zhu Han, “A Predictive On-Demand Placement of UAV Base Stations Using Echo State Network,” in Proc. IEEE/CIC Int. Conf. Commun. China (ICCC), Changchun, China, Aug. 2019.
+  
+ 3. Li-Chun Wang, **Haoran Peng**, Cheng-Sen Huang, and Ang-Hsun Tsai, “Latest Advances in Spectrum Management for 6G Communications”, in Proc. IEEE Wireless Opt. Commun. Conf. (WOCC), Taipei, Taiwan, Oct. 2021.
+  
+ 4. **Haoran Peng**, Hanif Rahbari, Shanchieh Jay Yang, and Li-Chun Wang, “Spectrum Sharing Security in Multi-Agent Reinforcement Learning-Based Vehicular Networks”, has been submitted to 2022 IEEE Glob. Commun. Conf. (GLOBECOM) *(under review)*.
 
 ## Selected Awards & Scholarship
 
