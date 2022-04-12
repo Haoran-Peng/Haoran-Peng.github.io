@@ -7,9 +7,8 @@ National Yang Ming Chiao Tung University
 [[LinkedIn]](https://www.linkedin.com/in/phr-michael/)  [[Google Scholar]](https://scholar.google.com/citations?user=AQrrNcsAAAAJ&hl=en)
 GPA in Ph.D.: 4.3/4.3
 
-
 # About me
-Hi! I'm a forth (final)-year Ph.D. student in the Department of Electrical and Computer Engineering, National Yang Ming Chiao Tung University. I will open source all my works that has been publised recently.
+Hi! I'm a forth (final)-year Ph.D. student in the Department of Electrical and Computer Engineering, National Yang Ming Chiao Tung University. I will share the source code of all my publications.
 
 # Research Interests
 
