@@ -16,15 +16,19 @@ Hi! I'm a forth (final)-year Ph.D. student in the Department of Electrical and C
 I have developed a particular interest in the field of ***Machine Learning for Wireless Communications***, on which I have published several related articles.
 
 # Education
-**National Yang Ming Chiao Tung University, Taiwan**  <p align="right">*Sep. 2018 - Present*</p>
+
+**National Yang Ming Chiao Tung University, Taiwan**
 *-Ph.D. Candidate in Electrical and Computer Engineering* 
-*-(MS Straight to Doctoral Program in Sep. 2020)* 
+*-(MS Straight to Doctoral Program in Sep. 2020)*
+ <p align="right">Sep. 2018 - Present</p>
+ 
+**Rochester Institute of Technology, NY, USA**
+*-Visiting Research Student in CyberSecurity*
+<p align="right">Jun. 2021 - Aug. 2021</p>
 
-**Rochester Institute of Technology, NY, USA** <p align="right">*Jun. 2021 - Aug. 2021*</p>
-*-Visiting Research Student in CyberSecurity* 
-
-**University of Electronic Science and Technology of China, Chengdu** <p align="right">*Sep. 2011 - Jul. 2015*</p>
+**University of Electronic Science and Technology of China, Chengdu**
 *-Bachelor of Engineering in Software Engineering (Embedded Systems)* 
+<p align="right">Sep. 2011 - Jul. 2015</p>
 
 # Publications
 ## Journal Papers
