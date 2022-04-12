@@ -32,8 +32,11 @@ I have developed a particular interest in the field of ***Machine Learning for W
  1. **Haoran Peng**, Ang-Hsun Tsai, Li-Chun Wang, and Zhu Han, “LEOPARD: Parallel Optimal Deep Echo State Network Prediction Improves Service Coverage for UAV-assisted Outdoor Hotspots”,  **IEEE Trans. Cogn. Commun. Netw.**, vol. 8, no. 1, pp. 282-295, Mar. 2022.
  
 2. **Haoran Peng**, and Li-Chun Wang, “Energy-Harvesting Reconfigurable Intelligent Surface Based on Robust Deep Reinforcement Learning”, has been submitted to **IEEE Trans. Wireless Commun.** *(under review)*.
+ 
 3. **Haoran Peng**, Li-Chun Wang, and Zhuo-Fu Jian, “Data-driven Spectrum Partition for Multiplexing URLLC and eMBB”, has been submitted to **IEEE Trans. Cogn. Commun. Netw.** *(under review)*.
+
 4. Yingying Huangfu, **Haoran Peng**, Li-Chun Wang, Fan Zhou, and Liang Zhou, “A Statistics-Based Robust Abnormal Node Detection in Cluster-Tree Wireless Sensor Networks”, has been submitted to **IEEE Trans. Wireless Commun.** *(under review)*.
+
 5. Li-Chun Wang, **Haoran Peng**, Shu-Feng Cheng, and Zhu Han, “An Martingale-based Latency Performance Analysis for Coexisting URLLC and eMBB”, has been submitted to **IEEE Trans. Wireless Commun.** *(under review)*.
 
 ## Conference Papers
