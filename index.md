@@ -1,5 +1,4 @@
 # Haoran Peng (彭浩然) 
-8-)
 
 ![enter image description here](https://www.google.com/url?sa=i&url=https://www.tupianzj.com/&psig=AOvVaw2UVl3dsa1O6r4UZ4cwVhSo&ust=1649848812892000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCMDD5vWzjvcCFQAAAAAdAAAAABAO)Ph.D. Candidate
 Department of Electrical and Computer Engineering
@@ -17,19 +16,19 @@ Hi! I'm a forth (final)-year Ph.D. student in the Department of Electrical and C
 I have developed a particular interest in the field of ***Machine Learning for Wireless Communications***, on which I have published several related articles.
 
 # Education
-
 **National Yang Ming Chiao Tung University, Taiwan**
->*Ph.D. Candidate in Electrical and Computer Engineering* 
+*<p>Sep. 2018 - Present</p>*
+>*Ph.D. Candidate in Electrical and Computer Engineering*
 >*(**MS Straight to Doctoral Program in Sep. 2020**)*
-<p align="right">Sep. 2018 - Present</p>
+
  
 **Rochester Institute of Technology, NY, USA**
+*<p>Jun. 2021 - Aug. 2021</p>*
 >*Visiting Research Student in CyberSecurity*
-<p align="right">Jun. 2021 - Aug. 2021</p>
 
 **University of Electronic Science and Technology of China, Chengdu**
+*<p>Sep. 2011 - Jul. 2015</p>*
 >*Bachelor of Engineering in Software Engineering (Embedded Systems)* 
-<p align="right">Sep. 2011 - Jul. 2015</p>
 
 # Publications
 ## Journal Papers
