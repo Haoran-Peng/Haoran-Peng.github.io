@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Haoran Peng's Personal Page
 
 You can use the [editor on GitHub](https://github.com/Haoran-Peng/HaoranPeng.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
