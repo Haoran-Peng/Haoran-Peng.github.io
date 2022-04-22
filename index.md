@@ -69,19 +69,11 @@ I have developed a particular interest in the field of ***Machine Learning for W
 # Selected Awards & Scholarship
 
  - Research Scholarship of CTCI Foundation Science and Technology Scholarship. ***Oct. 2021***
-
  - Outstanding Students Award of NYCU Scholarships for Mainland Chinese Students.  ***Oct. 2021***
-
  - NYCU Spring Ph.D. Scholarship. ***Sep. 2021***
-
  - First Place, Practice and Research Section, 26th International ICT Innovative Services Awards.   ***Nov. 2021***
-
  - Outstanding Student Award for Academic Achievement at NCTU (Currently NYCU). ***Jun. 2019***
-
  - First Place, Practice and Research Section, 23th International ICT Innovative Services Awards. ***Oct. 2018***
-
  - First Place, English Section, 23th  International ICT Innovative Services Awards. ***Oct. 2018***
-
  - Outstanding Undergraduate Thesis of UESTC. ***Jun. 2015***
-
  - Outstanding Student for Social Practice, UESTC. ***Oct. 2013***
