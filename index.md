@@ -50,6 +50,11 @@ I have developed a particular interest in the field of ***Machine Learning for W
  3. Li-Chun Wang, **Haoran Peng**, Cheng-Sen Huang, and Ang-Hsun Tsai, “Latest Advances in Spectrum Management for 6G Communications”, in Proc. IEEE Wireless Opt. Commun. Conf. (WOCC), Taipei, Taiwan, Oct. 2021.
   
  4. **Haoran Peng**, Hanif Rahbari, Shanchieh Jay Yang, and Li-Chun Wang, “Spectrum Sharing Security in Multi-Agent Reinforcement Learning-Based Vehicular Networks”, has been submitted to 2022 IEEE Glob. Commun. Conf. (GLOBECOM) *(under review)*.
+ 
+ ##Reviewer
+ **IEEE Transactions on Cognitive Communications and Networking**
+ **IEEE Transactions on Wireless Communications**
+ **IEEE International Conference on Communications (ICC) Workshop** ***2022***
 
 ## Selected Awards & Scholarship
 
