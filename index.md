@@ -7,7 +7,9 @@ National Yang Ming Chiao Tung University<br>
 [[LinkedIn]](https://www.linkedin.com/in/phr-michael/)  [[Google Scholar]](https://scholar.google.com/citations?user=AQrrNcsAAAAJ&hl=en)
 
 # About me
-Hi! I’m a forth (final)-year Ph.D. student in the Department of Electrical and Computer Engineering, National Yang Ming Chiao Tung University.
+I am currently a forth (final)-year Ph.D. student in the Department of Electrical and Computer Engineering, National Yang Ming Chiao Tung University.
+I am fortunate to be advised by [Prof. Li-Chun Wang](https://wang.web.nycu.edu.tw/). Previously, I received my bachelor degree in Software Engineering at University of Electronic Science and Technology of China, Chengdu, China in 2015.
+From 2015 to 2018, I was a full-time software engineer in Chengdu.
 
 # Research Interests
 
