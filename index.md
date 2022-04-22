@@ -1,5 +1,3 @@
-# Haoran Peng (彭浩然) 
-
 Ph.D. Candidate<br>
 Department of Electrical and Computer Engineering<br>
 National Yang Ming Chiao Tung University<br>
