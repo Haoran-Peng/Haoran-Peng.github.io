@@ -4,12 +4,19 @@ Ph.D. Candidate<br>
 Department of Electrical and Computer Engineering<br>
 National Yang Ming Chiao Tung University<br>
 (Previouly National Chiao Tung University)<br>
+
+
+Rm. 516, MIRC Bldg, National Yang Ming Chiao Tung University<br>
+1001 University Road, Hsinchu, Taiwan 300
+Email: peng.ee07[@]nycu[dot].edu.tw
+
 [[LinkedIn]](https://www.linkedin.com/in/phr-michael/)  [[Google Scholar]](https://scholar.google.com/citations?user=AQrrNcsAAAAJ&hl=en)
 
 # About me
 I am currently a forth (final)-year Ph.D. student in the Department of Electrical and Computer Engineering, National Yang Ming Chiao Tung University.
-I am fortunate to be advised by [Prof. Li-Chun Wang](https://wang.web.nycu.edu.tw/). Previously, I received my bachelor degree in Software Engineering at University of Electronic Science and Technology of China, Chengdu, China in 2015.
-From 2015 to 2018, I was a full-time software engineer in Chengdu.
+I am fortunate to be advised by [Prof. Li-Chun Wang](https://wang.web.nycu.edu.tw/). Previously, I received my bachelor degree in Software Engineering at University of Electronic Science and Technology of China, Chengdu, China in 2015. From 2015 to 2018, I was a full-time software engineer in Chengdu. <br>
+
+I did a visiting research at Rochester Institute of Technology in the summer of 2021, advised by [Prof. Shanchieh Yang](https://www.rit.edu/directory/sjyeec-shanchieh-yang) and [Prof. Hanif Rahbari](http://rahbari.csec.rit.edu/).
 
 # Research Interests
 
