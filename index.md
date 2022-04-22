@@ -16,17 +16,17 @@ I have developed a particular interest in the field of ***Machine Learning for W
 
 # Education
 **National Yang Ming Chiao Tung University, Taiwan**
-*<p>Sep. 2018 - Present</p>*
+*Sep. 2018 - Present*
 >*Ph.D. Candidate in Electrical and Computer Engineering*
 >*(**MS Straight to Doctoral Program in Sep. 2020**)*
 
  
 **Rochester Institute of Technology, NY, USA**
-*<p>Jun. 2021 - Aug. 2021</p>*
+*Jun. 2021 - Aug. 2021*
 >*Visiting Research Student in CyberSecurity*
 
 **University of Electronic Science and Technology of China, Chengdu**
-*<p>Sep. 2011 - Jul. 2015</p>*
+*Sep. 2011 - Jul. 2015*
 >*Bachelor of Engineering in Software Engineering (Embedded Systems)* 
 
 # Publications
