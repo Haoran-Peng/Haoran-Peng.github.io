@@ -5,10 +5,9 @@ Department of Electrical and Computer Engineering<br>
 National Yang Ming Chiao Tung University<br>
 (Previouly National Chiao Tung University)<br>
 [[LinkedIn]](https://www.linkedin.com/in/phr-michael/)  [[Google Scholar]](https://scholar.google.com/citations?user=AQrrNcsAAAAJ&hl=en)
-GPA in Ph.D.: 4.3/4.3
 
 # About me
-Hi! I'm a forth (final)-year Ph.D. student in the Department of Electrical and Computer Engineering, National Yang Ming Chiao Tung University. I will share the source code of all my publications.
+Hi! I’m a forth (final)-year Ph.D. student in the Department of Electrical and Computer Engineering, National Yang Ming Chiao Tung University.
 
 # Research Interests
 
