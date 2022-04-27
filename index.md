@@ -18,7 +18,7 @@ I am fortunate to be advised by [Prof. Li-Chun Wang](https://wang.web.nycu.edu.t
 
 I did a visiting research at Rochester Institute of Technology in the summer of 2021, advised by [Prof. Shanchieh Yang](https://www.rit.edu/directory/sjyeec-shanchieh-yang) and [Prof. Hanif Rahbari](http://rahbari.csec.rit.edu/).
 
-<**I am currently on the 2022-2023 academic job market, looking for postdoc positions in ECE, CSE etc., related with Machine Learning, Optimization, with applications in Wireless Communications, Networking, CyberSecurity. Please feel free to contact me if you are interested.**--!>
+<!--**I am currently on the 2022-2023 academic job market, looking for postdoc positions in ECE, CSE etc., related with Machine Learning, Optimization, with applications in Wireless Communications, Networking, CyberSecurity. Please feel free to contact me if you are interested.**-->
 
 # Research Interests
 
