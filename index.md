@@ -22,7 +22,7 @@ I did a visiting research at Rochester Institute of Technology in the summer of 
 
 # Research Interests
 
-I have developed a particular interest in the field of ***Machine Learning for Wireless Communications***, on which I have published several related articles.
+I have developed a particular interest in the field of ***Machine Learning for Wireless Communications and Mobile Computing***, on which I have published several related articles.
 
 # Education
 **National Yang Ming Chiao Tung University, Taiwan** <br>
