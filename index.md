@@ -59,7 +59,7 @@ I have developed a particular interest in the field of ***Machine Learning for W
 
  3. Li-Chun Wang, **Haoran Peng**, Cheng-Sen Huang, and Ang-Hsun Tsai, “Latest Advances in Spectrum Management for 6G Communications”, in Proc. IEEE Wireless Opt. Commun. Conf. (WOCC), Taipei, Taiwan, Oct. 2021.
 
- 4. **Haoran Peng**, Hanif Rahbari, Shanchieh Jay Yang, and Li-Chun Wang, “Robust Spectrum Sharing for Connected Vehicles with Multi-Agent RL in Adversarial Settings”, has been submitted to 2022 IEEE Glob. Commun. Conf. (GLOBECOM) *(under review)*.
+ 4. **Haoran Peng**, Hanif Rahbari, Shanchieh Jay Yang, and Li-Chun Wang, “Non-cooperative Learning for Robust Spectrum Sharing in Connected Vehicles with Selfish Agents”, has been submitted to 2022 IEEE Glob. Commun. Conf. (GLOBECOM) *(under review)*.
 
 # Selected Research Experience
 
@@ -69,7 +69,7 @@ I have developed a particular interest in the field of ***Machine Learning for W
 
 **Rochester Institute of Technology, NY, USA**<br>
 *Jun. 2021 - Present*
->**Topic:** Robust Spectrum Sharing for Connected Vehicles with Multi-Agent RL in Adversarial Settings
+>**Topic:** Non-cooperative Learning for Robust Spectrum Sharing in Connected Vehicles with Selfish Agents
 
 # Reviewer
 
