@@ -41,7 +41,7 @@ I have developed a particular interest in the field of ***Machine Learning for W
 # Publications
 ## Journal Papers
 
- 1. **Haoran Peng**, Ang-Hsun Tsai, Li-Chun Wang, and Zhu Han, “LEOPARD: Parallel Optimal Deep Echo State Network Prediction Improves Service Coverage for UAV-assisted Outdoor Hotspots”,  **IEEE Trans. Cogn. Commun. Netw.**, vol. 8, no. 1, pp. 282-295, Mar. 2022.
+ 1. **Haoran Peng**, Ang-Hsun Tsai, Li-Chun Wang, and Zhu Han, “LEOPARD: Parallel Optimal Deep Echo State Network Prediction Improves Service Coverage for UAV-assisted Outdoor Hotspots”,  **IEEE Trans. Cogn. Commun. Netw.**, vol. 8, no. 1, pp. 282-295, Mar. 2022. [Paper](https://ieeexplore.ieee.org/document/9548955)
 
 2. **Haoran Peng**, and Li-Chun Wang, “Energy-Harvesting Reconfigurable Intelligent Surface Based on Robust Deep Reinforcement Learning”, has been submitted to **IEEE Trans. Wireless Commun.** *(under review)*.
 
@@ -55,9 +55,9 @@ I have developed a particular interest in the field of ***Machine Learning for W
 
  1. **Haoran Peng**, Li-Chun Wang, Geoffrey Ye Li, and Ang-Hsun Tsai, “Long-Lasting UAV-aided RIS Communications based on SWIPT”, in Proc. IEEE Wireless Commun. Netw. Conf. (WCNC), Austin, USA, Apr., 2022.
 
- 2. **Haoran Peng**, Chao Chen, C. Lai, Li-Chun Wang, and Zhu Han, “A Predictive On-Demand Placement of UAV Base Stations Using Echo State Network,” in Proc. IEEE/CIC Int. Conf. Commun. China (ICCC), Changchun, China, Aug. 2019.
+ 2. **Haoran Peng**, Chao Chen, C. Lai, Li-Chun Wang, and Zhu Han, “A Predictive On-Demand Placement of UAV Base Stations Using Echo State Network,” in Proc. IEEE/CIC Int. Conf. Commun. China (ICCC), Changchun, China, Aug. 2019. [Paper](https://ieeexplore.ieee.org/document/8855868)
 
- 3. Li-Chun Wang, **Haoran Peng**, Cheng-Sen Huang, and Ang-Hsun Tsai, “Latest Advances in Spectrum Management for 6G Communications”, in Proc. IEEE Wireless Opt. Commun. Conf. (WOCC), Taipei, Taiwan, Oct. 2021.
+ 3. Li-Chun Wang, **Haoran Peng**, Cheng-Sen Huang, and Ang-Hsun Tsai, “Latest Advances in Spectrum Management for 6G Communications”, in Proc. IEEE Wireless Opt. Commun. Conf. (WOCC), Taipei, Taiwan, Oct. 2021. [Paper](https://ieeexplore.ieee.org/document/9603218)
 
  4. **Haoran Peng**, Hanif Rahbari, Shanchieh Jay Yang, and Li-Chun Wang, “Non-cooperative Learning for Robust Spectrum Sharing in Connected Vehicles with Selfish Agents”, has been submitted to 2022 IEEE Glob. Commun. Conf. (GLOBECOM) *(under review)*.
 
