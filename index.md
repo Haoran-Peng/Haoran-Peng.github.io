@@ -53,7 +53,7 @@ I have developed a particular interest in the field of ***Machine Learning for W
 
 ## Conference Papers
 
- 1. **Haoran Peng**, Li-Chun Wang, Geoffrey Ye Li, and Ang-Hsun Tsai, “Long-Lasting UAV-aided RIS Communications based on SWIPT”, in Proc. IEEE Wireless Commun. Netw. Conf. (WCNC), Austin, USA, Apr., 2022.
+ 1. **Haoran Peng**, Li-Chun Wang, Geoffrey Ye Li, and Ang-Hsun Tsai, “Long-Lasting UAV-aided RIS Communications based on SWIPT”, in Proc. IEEE Wireless Commun. Netw. Conf. (WCNC), Austin, USA, Apr., 2022. [[Paper]](https://ieeexplore.ieee.org/document/9771999))
 
  2. **Haoran Peng**, Chao Chen, C. Lai, Li-Chun Wang, and Zhu Han, “A Predictive On-Demand Placement of UAV Base Stations Using Echo State Network,” in Proc. IEEE/CIC Int. Conf. Commun. China (ICCC), Changchun, China, Aug. 2019. [[Paper]](https://ieeexplore.ieee.org/document/8855868)
 
