@@ -45,7 +45,7 @@ I have developed a particular interest in the field of ***Machine Learning for W
 
 2. **Haoran Peng**, and Li-Chun Wang, “Energy-Harvesting Reconfigurable Intelligent Surface Based on Robust Deep Reinforcement Learning”, has been submitted to **IEEE Trans. Wireless Commun.** *(under review)*.
 
-3. **Haoran Peng**, Li-Chun Wang, and Zhuo-Fu Jian, “Data-driven Spectrum Partition for Multiplexing URLLC and eMBB”, has been submitted to **IEEE Trans. Cogn. Commun. Netw.** *(under review)*.
+3. **Haoran Peng**, Li-Chun Wang, and Zhuo-Fu Jian, “Data-Driven Spectrum Partition for Multiplexing URLLC and eMBB”, has been submitted to **IEEE Trans. Cogn. Commun. Netw.** *(under review)*.
 
 4. Yingying Huangfu, **Haoran Peng**, Li-Chun Wang, Fan Zhou, and Liang Zhou, “A Statistics-Based Robust Abnormal Node Detection in Cluster-Tree Wireless Sensor Networks”, has been submitted to **IEEE Trans. Wireless Commun.** *(under review)*.
 
@@ -59,7 +59,7 @@ I have developed a particular interest in the field of ***Machine Learning for W
 
  3. Li-Chun Wang, **Haoran Peng**, Cheng-Sen Huang, and Ang-Hsun Tsai, “Latest Advances in Spectrum Management for 6G Communications”, in Proc. IEEE Wireless Opt. Commun. Conf. (WOCC), Taipei, Taiwan, Oct. 2021. [[Paper]](https://ieeexplore.ieee.org/document/9603218)
 
- 4. **Haoran Peng**, Hanif Rahbari, Shanchieh Jay Yang, and Li-Chun Wang, “Non-cooperative Learning for Robust Spectrum Sharing in Connected Vehicles with Selfish Agents”, has been submitted to 2022 IEEE Glob. Commun. Conf. (GLOBECOM) *(under review)*.
+ 4. **Haoran Peng**, Hanif Rahbari, Shanchieh Jay Yang, and Li-Chun Wang, “Non-cooperative Learning for Robust Spectrum Sharing in Connected Vehicles with Malicious Agents”, has been submitted to 2022 IEEE Glob. Commun. Conf. (GLOBECOM) *(under review)*.
 
 # Selected Research Experience
 
