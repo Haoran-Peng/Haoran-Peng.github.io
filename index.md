@@ -65,7 +65,7 @@ I have developed a particular interest in the field of ***Machine Learning for W
 
 **Universal Global Scientific Industrial CO., LTD., Taiwan**<br>
 *Feb. 2021 - Feb. 2022*
->**Topic:** Cross-component Defect Detection for Bridging and Insufficient Solder Defects
+>**Topic:** Cross-component Defect Detection for Bridging and Insufficient Solder Defects. Advised by: [Prof. Hong-han Shuai](https://basiclab.lab.nycu.edu.tw)
 
 **Rochester Institute of Technology, NY, USA**<br>
 *Jun. 2021 - Present*
