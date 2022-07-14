@@ -47,9 +47,9 @@ I have developed a particular interest in the field of ***Machine Learning for W
 
 3. **Haoran Peng**, Li-Chun Wang, and Zhuo-Fu Jian, “Data-Driven Spectrum Partition for Multiplexing URLLC and eMBB”, has been submitted to **IEEE Trans. Cogn. Commun. Netw.** *(under review)*.
 
-4. Yingying Huangfu, **Haoran Peng**, Li-Chun Wang, Fan Zhou, and Liang Zhou, “A Statistics-Based Robust Abnormal Node Detection in Cluster-Tree Wireless Sensor Networks”, has been submitted to **IEEE Trans. Wireless Commun.** *(under review)*.
+4. **Haoran Peng**, Cheng-Yuan Ho, Yen-Ting Lin, and Li-Chun Wang, “Energy-Efficient Spectrum Sharing in Symbiotic Radio Using Generalized Benders Decomposition”, has submitted to **IEEE Trans. Wireless Commun.** *(under review)*.
 
-5. Li-Chun Wang, **Haoran Peng**, Shu-Feng Cheng, and Zhu Han, “An Martingale-based Latency Performance Analysis for Coexisting URLLC and eMBB”, has been submitted to **IEEE Trans. Wireless Commun.** *(under review)*.
+5. Yingying Huangfu, **Haoran Peng**, Li-Chun Wang, Fan Zhou, and Liang Zhou, “A Statistics-Based Robust Abnormal Node Detection in Cluster-Tree Wireless Sensor Networks”, has been submitted to **IEEE Trans. Wireless Commun.** *(under review)*.
 
 ## Conference Papers
 
@@ -60,6 +60,10 @@ I have developed a particular interest in the field of ***Machine Learning for W
  3. Li-Chun Wang, **Haoran Peng**, Cheng-Sen Huang, and Ang-Hsun Tsai, “Latest Advances in Spectrum Management for 6G Communications”, in Proc. IEEE Wireless Opt. Commun. Conf. (WOCC), Taipei, Taiwan, Oct. 2021. [[Paper]](https://ieeexplore.ieee.org/document/9603218)
 
  4. **Haoran Peng**, Hanif Rahbari, Shanchieh Jay Yang, and Li-Chun Wang, “Non-cooperative Learning for Robust Spectrum Sharing in Connected Vehicles with Malicious Agents”, has been submitted to 2022 IEEE Glob. Commun. Conf. (GLOBECOM) *(under review)*.
+  
+ 5. **Haoran Peng**, Cheng-Yuan Ho, Yen-Ting Lin, and Li-Chun Wang, “Energy-Efficient Symbiotic Radio Using Generalized Benders Decomposition”, has submitted to 96th IEEE Veh. Technol. Conf., Sep. 2022, Beijing/London (under review).
+ 
+ 6. Haoran Peng, Pei-Chen Chen, Pin-Hua Chen, Yung-Shun Yang, Ching-Chieh Hsia, and Li-Chun Wang, “6G toward Metaverse: Technologies, applications, and challenges,” has been submitted to IEEE VTS Asia Pac. Wireless Commun. Symp. (APWCS), Aug. 2022, Seoul, Korea (under review).
 
 # Selected Research Experience
 
