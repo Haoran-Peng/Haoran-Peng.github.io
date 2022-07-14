@@ -36,7 +36,7 @@ I have developed a particular interest in the field of ***Machine Learning for W
 
 **University of Electronic Science and Technology of China, Chengdu**<br>
 *Sep. 2011 - Jul. 2015*
->*Bachelor of Engineering in Software Engineering (Embedded Systems)* 
+>*Bachelor of Engineering in Computer Software Engineering (Embedded Systems)* 
 
 # Publications
 ## Journal Papers
@@ -92,3 +92,4 @@ I have developed a particular interest in the field of ***Machine Learning for W
  - First Place, English Section, 23th  International ICT Innovative Services Awards. ***Oct. 2018***
  - Outstanding Undergraduate Thesis of UESTC. ***Jun. 2015***
  - Outstanding Student for Social Practice, UESTC. ***Oct. 2013***
+ - 10 Software copyright registration certificates in China. ***Jun. 2015∼May 2018***
