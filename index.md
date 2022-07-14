@@ -36,7 +36,7 @@ I have developed a particular interest in the field of ***Machine Learning for W
 
 **University of Electronic Science and Technology of China, Chengdu**<br>
 *Sep. 2011 - Jul. 2015*
->*Bachelor of Engineering in Computer Software Engineering (Embedded Systems)* 
+>*Bachelor of Engineering in Computer Software Engineering* 
 
 # Publications
 ## Journal Papers
