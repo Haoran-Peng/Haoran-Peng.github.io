@@ -45,7 +45,7 @@ I have developed a particular interest in the field of ***Machine Learning for W
 
 2. **Haoran Peng**, and Li-Chun Wang, “Energy-Harvesting Reconfigurable Intelligent Surface Based on Robust Deep Reinforcement Learning”, has been submitted to **IEEE Trans. Wireless Commun.** *(under review)*.
 
-3. **Haoran Peng**, Li-Chun Wang, and Zhuo-Fu Jian, “Data-Driven Spectrum Partition for Multiplexing URLLC and eMBB”, has been submitted to **IEEE Trans. Cogn. Commun. Netw.** *(under review)*.
+3. **Haoran Peng**, Li-Chun Wang, and Zhuo-Fu Jian, “Data-Driven Spectrum Partition for Multiplexing URLLC and eMBB”, has been submitted to **IEEE Trans. Cogn. Commun. Netw.** *(Major Revision)*.
 
 4. **Haoran Peng**, Cheng-Yuan Ho, Yen-Ting Lin, and Li-Chun Wang, “Energy-Efficient Spectrum Sharing in Symbiotic Radio Using Generalized Benders Decomposition”, has submitted to **IEEE Trans. Wireless Commun.** *(under review)*.
 
