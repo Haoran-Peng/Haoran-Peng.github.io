@@ -63,7 +63,7 @@ I have developed a particular interest in the field of ***Machine Learning for W
   
  5. **Haoran Peng**, Cheng-Yuan Ho, Yen-Ting Lin, and Li-Chun Wang, “Energy-Efficient Symbiotic Radio Using Generalized Benders Decomposition”, has submitted to 96th IEEE Veh. Technol. Conf., Sep. 2022, Beijing/London (under review).
  
- 6. **Haoran Peng**, Pei-Chen Chen, Pin-Hua Chen, Yung-Shun Yang, Ching-Chieh Hsia, and Li-Chun Wang, “6G toward Metaverse: Technologies, applications, and challenges,” has been submitted to IEEE VTS Asia Pac. Wireless Commun. Symp. (APWCS), Aug. 2022, Seoul, Korea (under review).
+ 6. **Haoran Peng**, Pei-Chen Chen, Pin-Hua Chen, Yung-Shun Yang, Ching-Chieh Hsia, and Li-Chun Wang, “6G toward Metaverse: Technologies, applications, and challenges,” accepted by IEEE VTS Asia Pac. Wireless Commun. Symp. (APWCS), Aug. 2022, Seoul, Korea.
 
 # Selected Research Experience
 
