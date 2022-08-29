@@ -43,11 +43,11 @@ I have developed a particular interest in the field of ***Machine Learning for W
 
  1. **Haoran Peng**, Ang-Hsun Tsai, Li-Chun Wang, and Zhu Han, “LEOPARD: Parallel Optimal Deep Echo State Network Prediction Improves Service Coverage for UAV-assisted Outdoor Hotspots”,  **IEEE Trans. Cogn. Commun. Netw.**, vol. 8, no. 1, pp. 282-295, Mar. 2022. [[Paper]](https://ieeexplore.ieee.org/document/9548955) [[Slides]](https://haoran-peng.github.io/Slides/LEOPARD_TCCN.pdf) [[Code]](https://github.com/Haoran-Peng/parallel_deep_echo_state_network)
 
-2. **Haoran Peng**, and Li-Chun Wang, “Energy-Harvesting Reconfigurable Intelligent Surface Based on Robust Deep Reinforcement Learning”, has been submitted to **IEEE Trans. Wireless Commun.** *(under review)*.
+2. **Haoran Peng**, and Li-Chun Wang, “Energy-Harvesting Reconfigurable Intelligent Surface Based on Robust Deep Reinforcement Learning”, has been submitted to **IEEE Trans. Wireless Commun.** *(Major Revision)*.
 
 3. **Haoran Peng**, Li-Chun Wang, and Zhuo-Fu Jian, “Data-Driven Spectrum Partition for Multiplexing URLLC and eMBB”, has been submitted to **IEEE Trans. Cogn. Commun. Netw.** *(Major Revision)*.
 
-4. **Haoran Peng**, Cheng-Yuan Ho, Yen-Ting Lin, and Li-Chun Wang, “Energy-Efficient Spectrum Sharing in Symbiotic Radio Using Generalized Benders Decomposition”, has submitted to **IEEE Trans. Wireless Commun.** *(under review)*.
+4. **Haoran Peng**, Cheng-Yuan Ho, Yen-Ting Lin, and Li-Chun Wang, “Energy-Efficient Spectrum Sharing in Symbiotic Radio Using Generalized Benders Decomposition”, has submitted to **IEEE J. Sel. Areas Commun.** *(under review)*.
 
 5. Yingying Huangfu, **Haoran Peng**, Li-Chun Wang, Fan Zhou, and Liang Zhou, “A Statistics-Based Robust Abnormal Node Detection in Cluster-Tree Wireless Sensor Networks”, has been submitted to **IEEE Trans. Wireless Commun.** *(under review)*.
 
@@ -57,7 +57,7 @@ I have developed a particular interest in the field of ***Machine Learning for W
  
  2. **Haoran Peng**, Li-Chun Wang, Geoffrey Ye Li, and Ang-Hsun Tsai, “Long-Lasting UAV-aided RIS Communications based on SWIPT”, in *Proc. IEEE Wireless Commun. Netw. Conf. (WCNC)*, Apr. 2022, pp. 1844—1849. [[Paper]](https://ieeexplore.ieee.org/document/9771999) [[Code]](https://github.com/Haoran-Peng/UAV-RIS_EH_DDPG) [[Slides]](https://haoran-peng.github.io/Slides/EH_UAV_RIS.pdf) [[Video]](https://www.bilibili.com/video/BV1jL4y1F7oA#reply112394783936)
 
- 3. **Haoran Peng**, Cheng-Yuan Ho, Yen-Ting Lin, and Li-Chun Wang, “Energy-Efficient Symbiotic Radio Using Generalized Benders Decomposition”, was **accepted** by *96th IEEE Veh. Technol. Conf. (VTC-Fall)*, Beijing/London, Sep. 2022.
+ 3. **Haoran Peng**, Cheng-Yuan Ho, Yen-Ting Lin, and Li-Chun Wang, “Energy-Efficient Symbiotic Radio Using Generalized Benders Decomposition”, was **accepted** by *IEEE 96th Veh. Technol. Conf. (VTC-Fall)*, Beijing/London, Sep. 2022.
  
  4. **Haoran Peng**, Chao Chen, C. Lai, Li-Chun Wang, and Zhu Han, “A Predictive On-Demand Placement of UAV Base Stations Using Echo State Network,” in *Proc. IEEE/CIC Int. Conf. Commun. China (ICCC)*, Aug. 2019, pp. 36—41. [[Paper]](https://ieeexplore.ieee.org/document/8855868) 
  
