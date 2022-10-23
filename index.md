@@ -45,11 +45,11 @@ I have developed a particular interest in the field of ***Machine Learning for W
 
 2. **Haoran Peng**, and Li-Chun Wang, “Energy-Harvesting Reconfigurable Intelligent Surface Based on Robust Deep Reinforcement Learning”, has been submitted to **IEEE Trans. Wireless Commun.** *(Major Revision)*.
 
-3. **Haoran Peng**, Li-Chun Wang, and Zhuo-Fu Jian, “Data-Driven Spectrum Partition for Multiplexing URLLC and eMBB”, has been submitted to **IEEE Trans. Cogn. Commun. Netw.** *(Major Revision)*.
+3. **Haoran Peng**, Li-Chun Wang, and Zhuo-Fu Jian, “Data-Driven Spectrum Partition for Multiplexing URLLC and eMBB”, has been submitted to **IEEE Trans. Cogn. Commun. Netw.** *(Minor Revision)*.
 
 4. **Haoran Peng**, Cheng-Yuan Ho, Yen-Ting Lin, and Li-Chun Wang, “Energy-Efficient Spectrum Sharing in Symbiotic Radio Using Generalized Benders Decomposition”, has submitted to **IEEE J. Sel. Areas Commun.** *(under review)*.
 
-5. Yingying Huangfu, **Haoran Peng**, Li-Chun Wang, Fan Zhou, and Liang Zhou, “A Statistics-Based Robust Abnormal Node Detection in Cluster-Tree Wireless Sensor Networks”, has been submitted to **IEEE Trans. Wireless Commun.** *(under review)*.
+<!-- 5. Yingying Huangfu, **Haoran Peng**, Li-Chun Wang, Fan Zhou, and Liang Zhou, “A Statistics-Based Robust Abnormal Node Detection in Cluster-Tree Wireless Sensor Networks”, has been submitted to **IEEE Trans. Wireless Commun.** *(under review)*. -->
 
 ## Conference Papers
 
@@ -61,7 +61,7 @@ I have developed a particular interest in the field of ***Machine Learning for W
  
  4. **Haoran Peng**, Chao Chen, C. Lai, Li-Chun Wang, and Zhu Han, “A Predictive On-Demand Placement of UAV Base Stations Using Echo State Network,” in *Proc. IEEE/CIC Int. Conf. Commun. China (ICCC)*, Aug. 2019, pp. 36—41. [[Paper]](https://ieeexplore.ieee.org/document/8855868) 
  
- 5. **Haoran Peng**, Pei-Chen Chen, Pin-Hua Chen, Yung-Shun Yang, Ching-Chieh Hsia, and Li-Chun Wang, “6G toward Metaverse: Technologies, applications, and challenges,” was **accepted** by *IEEE VTS Asia Pac. Wireless Commun. Symp. (APWCS)*, Seoul, Korea, Aug. 2022.
+ 5. **Haoran Peng**, Pei-Chen Chen, Pin-Hua Chen, Yung-Shun Yang, Ching-Chieh Hsia, and Li-Chun Wang, “6G toward Metaverse: Technologies, applications, and challenges,” in *Proc. IEEE VTS Asia Pac. Wireless Commun. Symp. (APWCS)*, Aug. 2022, pp. 6—10. [[Paper]](https://ieeexplore.ieee.org/abstract/document/9906483)
  
  6. Li-Chun Wang, **Haoran Peng**, Cheng-Sen Huang, and Ang-Hsun Tsai, “Latest Advances in Spectrum Management for 6G Communications”, in *Proc. IEEE Wireless Opt. Commun. Conf. (WOCC)*, Oct. 2021, pp. 295—297. [[Paper]](https://ieeexplore.ieee.org/document/9603218)
 
