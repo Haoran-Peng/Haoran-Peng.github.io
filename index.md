@@ -79,8 +79,9 @@ I have developed a particular interest in the field of ***Machine Learning for W
 
 1. IEEE Transactions on Cognitive Communications and Networking
 2. IEEE Transactions on Wireless Communications
-3. 2022 IEEE International Conference on Communications (ICC) Workshop
-4. 2022 IEEE 96th Vehicular Technology Conference Fall ***TPC Member***
+3. IEEE Wireless Communications
+4. 2022 IEEE International Conference on Communications (ICC) Workshop
+5. 2022 IEEE 96th Vehicular Technology Conference Fall ***TPC Member***
 
 # Selected Awards & Scholarship
 
