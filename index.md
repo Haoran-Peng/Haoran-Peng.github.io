@@ -48,6 +48,8 @@ I have developed a particular interest in the field of ***Machine Learning for W
 
 4. **Haoran Peng**, Cheng-Yuan Ho, Yen-Ting Lin, and Li-Chun Wang, “Energy-Efficient Spectrum Sharing in Symbiotic Radio Using Generalized Benders Decomposition”, has submitted to **IEEE J. Sel. Areas Commun.** *(under review)*.
 
+5. **Haoran Peng**, Ching-Chieh Hsia, Zhu Han, and Li-Chun Wang, “A Generalized Delay and Backlog Analysis for Multiplexing URLLC and eMBB: Reconfigurable Intelligent Surfaces or Decode-and-Forward?”, has been submitted to **IEEE Trans. Wireless Commun.** *(under review)*.
+
 <!-- 5. Yingying Huangfu, **Haoran Peng**, Li-Chun Wang, Fan Zhou, and Liang Zhou, “A Statistics-Based Robust Abnormal Node Detection in Cluster-Tree Wireless Sensor Networks”, has been submitted to **IEEE Trans. Wireless Commun.** *(under review)*. -->
 
 ## Conference Papers
