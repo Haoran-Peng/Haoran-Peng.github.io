@@ -40,7 +40,7 @@ I have developed a particular interest in the field of ***Machine Learning for W
 # Publications
 ## Journal Papers
 
-1. **Haoran Peng**, and Li-Chun Wang, “Energy Harvesting Reconfigurable Intelligent Surface for UAV Based on Robust Deep Reinforcement Learning”, was accepted by **IEEE Trans. Wireless Commun.** [[Paper]](https://doi.org/10.1109/TWC.2023.3245820) [[Code]](https://github.com/Haoran-Peng/UAV-RIS_EnergyHarvesting)
+1. **Haoran Peng**, and Li-Chun Wang, “Energy Harvesting Reconfigurable Intelligent Surface for UAV Based on Robust Deep Reinforcement Learning”, **IEEE Trans. Wireless Commun.**, early access, Feb. 23, 2023, doi: [10.1109/TWC.2023.3245820](https://doi.org/10.1109/TWC.2023.3245820) [[Paper]](https://doi.org/10.1109/TWC.2023.3245820) [[Code]](https://github.com/Haoran-Peng/UAV-RIS_EnergyHarvesting)
 
 2. **Haoran Peng**, Li-Chun Wang, and Zhuo-Fu Jian, “Data-Driven Spectrum Partition for Multiplexing URLLC and eMBB”, **IEEE Trans. Cogn. Commun. Netw.**, early access, Dec. 29, 2022, doi: [10.1109/TCCN.2022.3231690](https://doi.org/10.1109/TCCN.2022.3231690). [[Paper]](https://ieeexplore.ieee.org/abstract/document/10003191)
 
