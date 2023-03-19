@@ -1,6 +1,6 @@
 # Haoran Peng (彭浩然)
 
-Ph.D. Postdoctoral Fellow in ICCL Lab<br>
+Postdoctoral Fellow in ICCL Lab<br>
 Department of Electrical and Computer Engineering<br>
 National Yang Ming Chiao Tung University<br>
 (Previouly National Chiao Tung University)<br>
