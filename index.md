@@ -17,7 +17,7 @@ I received my Ph.D. degree in the Department of Electrical and Computer Engineer
 
 I did a visiting research at Rochester Institute of Technology in the summer of 2021, advised by [Prof. Shanchieh Yang](https://www.rit.edu/directory/sjyeec-shanchieh-yang) and [Prof. Hanif Rahbari](http://rahbari.csec.rit.edu/).
 
-**I am currently on the 2023 academic job market, looking for positions in ECE, CSE etc., related with Machine Learning, Optimization, with applications in Wireless Communications, Networking, CyberSecurity. Please feel free to contact me if you are interested.**
+<!-- **I am currently on the 2023 academic job market, looking for positions in ECE, CSE etc., related with Machine Learning, Optimization, with applications in Wireless Communications, Networking, CyberSecurity. Please feel free to contact me if you are interested.** -->
 
 # Research Interests
 
