@@ -48,7 +48,7 @@ I have developed a particular interest in the field of ***Machine Learning for W
 
 4. **Haoran Peng**, Cheng-Yuan Ho, Yen-Ting Lin, and Li-Chun Wang, “Energy-Efficient Symbiotic Radio for Prioritized Spectrum Sharing Using Reconfigurable Intelligent Surfaces”, has submitted to **IEEE Trans. Veh. Technol.** *(under review)*.
 
-5. **Haoran Peng**, Ching-Chieh Hsia, Zhu Han, and Li-Chun Wang, “A Generalized Delay and Backlog Analysis for Multiplexing URLLC and eMBB: Reconfigurable Intelligent Surfaces or Decode-and-Forward?”, has been submitted to **IEEE Trans. Wireless Commun.** *(under review)*.
+5. **Haoran Peng**, Ching-Chieh Hsia, Zhu Han, and Li-Chun Wang, “A Generalized Delay and Backlog Analysis for Multiplexing URLLC and eMBB: Reconfigurable Intelligent Surfaces or Decode-and-Forward?”, has been submitted to **IEEE Trans. Wireless Commun.** *(Major Revisions)*.[[Code]](https://github.com/Haoran-Peng/MartingaleMultiHop/tree/main)
 
 <!-- 5. Yingying Huangfu, **Haoran Peng**, Li-Chun Wang, Fan Zhou, and Liang Zhou, “A Statistics-Based Robust Abnormal Node Detection in Cluster-Tree Wireless Sensor Networks”, has been submitted to **IEEE Trans. Wireless Commun.** *(under review)*. -->
 
