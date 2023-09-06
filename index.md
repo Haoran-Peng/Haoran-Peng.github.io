@@ -40,7 +40,7 @@ I have developed a particular interest in the field of ***Machine Learning for W
 # Publications
 ## Journal Papers
 
-1. **Haoran Peng**, Ching-Chieh Hsia, Zhu Han, and Li-Chun Wang, “A Generalized Delay and Backlog Analysis for Multiplexing URLLC and eMBB: Reconfigurable Intelligent Surfaces or Decode-and-Forward?”, was accepted by **IEEE Trans. Wireless Commun.** *(Major Revisions)*.[[Code]](https://github.com/Haoran-Peng/MartingaleMultiHop/tree/main)
+1. **Haoran Peng**, Ching-Chieh Hsia, Zhu Han, and Li-Chun Wang, “A Generalized Delay and Backlog Analysis for Multiplexing URLLC and eMBB: Reconfigurable Intelligent Surfaces or Decode-and-Forward?”, was accepted by **IEEE Trans. Wireless Commun.** [[Code]](https://github.com/Haoran-Peng/MartingaleMultiHop/tree/main)
 
 2. **Haoran Peng**, and Li-Chun Wang, “Energy Harvesting Reconfigurable Intelligent Surface for UAV Based on Robust Deep Reinforcement Learning”, **IEEE Trans. Wireless Commun.**, early access, Feb. 23, 2023, doi: [10.1109/TWC.2023.3245820](https://doi.org/10.1109/TWC.2023.3245820) [[Paper]](https://doi.org/10.1109/TWC.2023.3245820) [[Code]](https://github.com/Haoran-Peng/UAV-RIS_EnergyHarvesting)
 
