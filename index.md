@@ -86,9 +86,10 @@ I have developed a particular interest in the field of ***Machine Learning for W
 
 # Selected Awards & Scholarship
 
+ - The Outstanding Graduate Student at NYCU. ***Nov. 2022***
  - IEEE Vehicle Technology Society Student Travel Grant.  ***Nov. 2022***
  - Outstanding Students Award of NYCU Scholarships for Mainland Chinese Students.  ***Oct. 2022***
- - Research Scholarship of CTCI Foundation Science and Technology Scholarship. ***Oct. 2021***
+ - Outstanding Performance with Scholarship Award for Excellence in Research, CTCI Foundation Science and Technology Scholarship. ***Oct. 2021***
  - Outstanding Students Award of NYCU Scholarships for Mainland Chinese Students.  ***Oct. 2021***
  - NYCU Spring Ph.D. Scholarship. ***Sep. 2021***
  - First Place, Practice and Research Section, 26th International ICT Innovative Services Awards.   ***Nov. 2021***
