@@ -12,7 +12,7 @@ Email: hrmpeng[@]gmail.com
 [[Google Scholar]](https://scholar.google.com/citations?user=AQrrNcsAAAAJ&hl=en)
 
 # About me
-I received my Ph.D. degree (Honors, 杰出毕业生) in the Department of Electrical and Computer Engineering from National Yang Ming Chiao Tung University in 2022, where I was advised by [Prof. Li-Chun Wang](https://wang.web.nycu.edu.tw/). Previously, I received my bachelor degree in Software Engineering at University of Electronic Science and Technology of China, Chengdu, China in 2015. From 2015 to 2018, I was a full-time software engineer in Chengdu. <br>
+I received my Ph.D. degree (Honors, 杰出毕业生) in the Department of Electrical and Computer Engineering from National Yang Ming Chiao Tung University (previouly National Chiao Tung University) in 2022, where I was advised by [Prof. Li-Chun Wang](https://wang.web.nycu.edu.tw/). Previously, I received my bachelor degree in Software Engineering at University of Electronic Science and Technology of China, Chengdu, China in 2015. From 2015 to 2018, I was a full-time software engineer in Chengdu. <br>
 
 I did a visiting research at Rochester Institute of Technology in the summer of 2021, advised by [Prof. Shanchieh Yang](https://www.rit.edu/directory/sjyeec-shanchieh-yang) and [Prof. Hanif Rahbari](http://rahbari.csec.rit.edu/).
 
@@ -77,13 +77,14 @@ I have developed a particular interest in the field of ***Machine Learning for W
 
 1. IEEE Transactions on Cognitive Communications and Networking
 2. IEEE Transactions on Wireless Communications
-3. IEEE Wireless Communications
-4. 2022 IEEE International Conference on Communications (ICC) Workshop
-5. 2022 IEEE 96th Vehicular Technology Conference Fall ***TPC Member***
+3. IEEE Transactions on Vehicle Technology
+4. IEEE Wireless Communications
+5. 2022 IEEE International Conference on Communications (ICC) Workshop
+6. IEEE Vehicular Technology Conference ***TPC Member***
 
 # Selected Awards & Scholarship
 
- - The Outstanding Graduate Student at NYCU. ***Nov. 2022***
+ - The Outstanding Graduate Student at NYCU. ***Jun. 2023***
  - IEEE Vehicle Technology Society Student Travel Grant.  ***Nov. 2022***
  - Outstanding Students Award of NYCU Scholarships for Mainland Chinese Students.  ***Oct. 2022***
  - Outstanding Performance with Scholarship Award for Excellence in Research, CTCI Foundation Science and Technology Scholarship. ***Oct. 2021***
