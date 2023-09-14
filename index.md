@@ -1,6 +1,6 @@
 # Haoran Peng (彭浩然)
 
-Postdoctoral Fellow in ICCL Lab<br>
+<!--Postdoctoral Fellow in ICCL Lab<br>
 Department of Electrical and Computer Engineering<br>
 National Yang Ming Chiao Tung University<br>
 (Previouly National Chiao Tung University)<br>
@@ -8,9 +8,11 @@ National Yang Ming Chiao Tung University<br>
 
 Rm. 516, MIRC Bldg, 1001 University Road<br>
 Hsinchu, Taiwan 300<br>
-Email: peng.ee07[@]nycu.edu.tw
+-->
+Email: hrmpeng[@]gmail.com
 
-[[LinkedIn]](https://www.linkedin.com/in/phr-michael/)  [[Google Scholar]](https://scholar.google.com/citations?user=AQrrNcsAAAAJ&hl=en)
+<!--[[LinkedIn]](https://www.linkedin.com/in/phr-michael/)  -->
+[[Google Scholar]](https://scholar.google.com/citations?user=AQrrNcsAAAAJ&hl=en)
 
 # About me
 I received my Ph.D. degree (Honors, 杰出毕业生) in the Department of Electrical and Computer Engineering from National Yang Ming Chiao Tung University in 2022, where I was advised by [Prof. Li-Chun Wang](https://wang.web.nycu.edu.tw/). Previously, I received my bachelor degree in Software Engineering at University of Electronic Science and Technology of China, Chengdu, China in 2015. From 2015 to 2018, I was a full-time software engineer in Chengdu. <br>
@@ -49,8 +51,6 @@ I have developed a particular interest in the field of ***Machine Learning for W
 4. **Haoran Peng**, Ang-Hsun Tsai, Li-Chun Wang, and Zhu Han, “LEOPARD: Parallel Optimal Deep Echo State Network Prediction Improves Service Coverage for UAV-assisted Outdoor Hotspots”,  **IEEE Trans. Cogn. Commun. Netw.**, vol. 8, no. 1, pp. 282-295, Mar. 2022. [[Paper]](https://ieeexplore.ieee.org/document/9548955) [[Slides]](https://haoran-peng.github.io/Slides/LEOPARD_TCCN.pdf) [[Code]](https://github.com/Haoran-Peng/parallel_deep_echo_state_network)
 
 5. **Haoran Peng**, Cheng-Yuan Ho, Yen-Ting Lin, and Li-Chun Wang, “Energy-Efficient Symbiotic Radio for Prioritized Spectrum Sharing Using Reconfigurable Intelligent Surfaces”, has submitted to **IEEE Trans. Veh. Technol.** *(under review)*.
-
-<!-- 5. Yingying Huangfu, **Haoran Peng**, Li-Chun Wang, Fan Zhou, and Liang Zhou, “A Statistics-Based Robust Abnormal Node Detection in Cluster-Tree Wireless Sensor Networks”, has been submitted to **IEEE Trans. Wireless Commun.** *(under review)*. -->
 
 ## Conference Papers
 
