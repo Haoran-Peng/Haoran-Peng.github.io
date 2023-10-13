@@ -7,6 +7,7 @@ National Yang Ming Chiao Tung University<br>
 Rm. 516, MIRC Bldg, 1001 University Road<br>
 Hsinchu, Taiwan 300<br> -->
 Email: hrmpeng[@]gmail.com
+       haoranpeng@cuhk.edu.hk
 
 <!--[[LinkedIn]](https://www.linkedin.com/in/phr-michael/)  -->
 [[Google Scholar]](https://scholar.google.com/citations?user=AQrrNcsAAAAJ&hl=en)
@@ -20,7 +21,7 @@ I did a visiting research at Rochester Institute of Technology in the summer of 
 
 # Research Interests
 
-I have developed a particular interest in the field of ***Machine Learning for Wireless Communications and Mobile Computing***, on which I have published several related articles.
+I have developed a particular interest in the field of ***Machine Learning for Wireless Communications***, on which I have published several related articles.
 
 # Education
 **National Yang Ming Chiao Tung University, Taiwan** <br>
