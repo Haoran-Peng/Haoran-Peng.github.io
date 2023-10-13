@@ -6,8 +6,8 @@ National Yang Ming Chiao Tung University<br>
 (Previouly National Chiao Tung University)<br>
 Rm. 516, MIRC Bldg, 1001 University Road<br>
 Hsinchu, Taiwan 300<br> -->
-Email: hrmpeng[@]gmail.com
-       haoranpeng@cuhk.edu.hk
+Email: hrmpeng[@]gmail.com <br>
+       haoranpeng[@]cuhk.edu.hk
 
 <!--[[LinkedIn]](https://www.linkedin.com/in/phr-michael/)  -->
 [[Google Scholar]](https://scholar.google.com/citations?user=AQrrNcsAAAAJ&hl=en)
