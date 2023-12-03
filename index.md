@@ -25,7 +25,7 @@ I have developed a particular interest in the field of ***Machine Learning for W
 # Education
 **National Yang Ming Chiao Tung University, Taiwan** <br>
 *Sep. 2018 - Nov. 2022*
->*Ph.D. Candidate in Electrical and Computer Engineering*<br>
+>*Ph.D. in Electronics and Electrical Engineering*<br>
 >*(**MS Straight to Doctoral Program in Sep. 2020**)*
 
 **Rochester Institute of Technology, NY, USA**<br>
