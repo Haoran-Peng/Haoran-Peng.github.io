@@ -12,11 +12,11 @@ Email: hrmpeng[@]gmail.com / haoranpeng[@]cuhk.edu.hk
 [[Google Scholar]](https://scholar.google.com/citations?user=AQrrNcsAAAAJ&hl=en)
 
 # About me
-I am a postdoctoral research associate at The Chinese University of Hong Kong supervised by Prof. Angela Yingjun Zhang. Prior to that, I received my Ph.D. degree (Honors, 杰出毕业生) in the Department of Electronics and Electrical Engineering from National Yang Ming Chiao Tung University (previouly National Chiao Tung University) in 2022, where I was advised by [Prof. Li-Chun Wang](https://wang.web.nycu.edu.tw/). Previously, I received my bachelor degree in Software Engineering at University of Electronic Science and Technology of China, Chengdu, China in 2015. From 2015 to 2018, I was a full-time software engineer and launched a tech startup with my friends and classmates. Unfortunately, it didn't succeed. <br>
+I am a postdoctoral research associate at *The Chinese University of Hong Kong (CUHK)* supervised by Prof. Angela Yingjun Zhang. Prior to that, I received my Ph.D. degree (Honors, 杰出毕业生) in Electronics and Electrical Engineering from National Yang Ming Chiao Tung University (previouly National Chiao Tung University) in 2022, where I was advised by [Prof. Li-Chun Wang](https://wang.web.nycu.edu.tw/). Previously, I received my bachelor degree at University of Electronic Science and Technology of China (UESTC), Chengdu, China in 2015. From 2015 to 2018, I was a full-time software engineer and launched a tech startup with my friends and classmates. Unfortunately, it didn't succeed. <br>
 
 I did a visiting research at Rochester Institute of Technology in the summer of 2021, advised by [Prof. Shanchieh Yang](https://www.rit.edu/directory/sjyeec-shanchieh-yang) and [Prof. Hanif Rahbari](http://rahbari.csec.rit.edu/).
 
-<!-- **I am currently on the 2023 academic job market, looking for positions in ECE, CSE etc., related with Machine Learning, Optimization, with applications in Wireless Communications, Networking, CyberSecurity. Please feel free to contact me if you are interested.** -->
+<!-- **I am currently on the academic job market, looking for faculty positions in ECE, CSE etc., related with Machine Learning, Optimization, with applications in Wireless Communications, Networking, CyberSecurity. Please feel free to contact me if you are interested.** -->
 
 # Research Interests
 
@@ -81,8 +81,9 @@ I have developed a particular interest in the field of ***Machine Learning for W
 2. IEEE Transactions on Wireless Communications
 3. IEEE Transactions on Vehicle Technology
 4. IEEE Wireless Communications
-5. 2022 IEEE International Conference on Communications (ICC) Workshop
-6. IEEE Vehicular Technology Conference ***TPC Member***
+5. IEEE Communications Magazine
+6. 2022 IEEE International Conference on Communications (ICC) Workshop
+7. IEEE Vehicular Technology Conference ***TPC Member***
 
 # Selected Awards & Scholarship
 
