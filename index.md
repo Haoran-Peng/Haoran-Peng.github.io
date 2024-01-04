@@ -39,13 +39,13 @@ I have developed a particular interest in the field of ***Machine Learning for W
 # Publications
 ## Journal Papers
 
-1. **Haoran Peng**, and Li-Chun Wang, “Energy Harvesting Reconfigurable Intelligent Surface for UAV Based on Robust Deep Reinforcement Learning”, **IEEE Trans. Wireless Commun.**, vol. 22, no. 10, pp. 6826-6838, Oct. 23, 2023, doi: [10.1109/TWC.2023.3245820](https://doi.org/10.1109/TWC.2023.3245820) [[Paper]](https://doi.org/10.1109/TWC.2023.3245820) [[Code]](https://github.com/Haoran-Peng/UAV-RIS_EnergyHarvesting)
+1. **Haoran Peng**, and Li-Chun Wang, “Energy Harvesting Reconfigurable Intelligent Surface for UAV Based on Robust Deep Reinforcement Learning”, **IEEE Trans. Wireless Commun.**, vol. 22, no. 10, pp. 6826-6838, Oct. 23, 2023, doi: [10.1109/TWC.2023.3245820](https://doi.org/10.1109/TWC.2023.3245820) [[Paper]](https://doi.org/10.1109/TWC.2023.3245820) [[Code]](https://github.com/Haoran-Peng/UAV-RIS_EnergyHarvesting) **(中科院一区，CCF-B)**
    
-2. **Haoran Peng**, Ching-Chieh Hsia, Zhu Han, and Li-Chun Wang, “A Generalized Delay and Backlog Analysis for Multiplexing URLLC and eMBB: Reconfigurable Intelligent Surfaces or Decode-and-Forward?”, Early Access, Sep. 2023, **IEEE Trans. Wireless Commun.** [[Code]](https://github.com/Haoran-Peng/MartingaleMultiHop/tree/main)
+2. **Haoran Peng**, Ching-Chieh Hsia, Zhu Han, and Li-Chun Wang, “A Generalized Delay and Backlog Analysis for Multiplexing URLLC and eMBB: Reconfigurable Intelligent Surfaces or Decode-and-Forward?”, Early Access, Sep. 2023, **IEEE Trans. Wireless Commun.** [[Code]](https://github.com/Haoran-Peng/MartingaleMultiHop/tree/main) **(中科院一区，CCF-B)**
 
-3. **Haoran Peng**, Li-Chun Wang, and Zhuo-Fu Jian, “Data-Driven Spectrum Partition for Multiplexing URLLC and eMBB”, **IEEE Trans. Cogn. Commun. Netw.**, vol. 9, no. 2, pp. 386-397, Apr., 2023. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10003191)
+3. **Haoran Peng**, Li-Chun Wang, and Zhuo-Fu Jian, “Data-Driven Spectrum Partition for Multiplexing URLLC and eMBB”, **IEEE Trans. Cogn. Commun. Netw.**, vol. 9, no. 2, pp. 386-397, Apr., 2023. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10003191) **(中科院一区)**
 
-4. **Haoran Peng**, Ang-Hsun Tsai, Li-Chun Wang, and Zhu Han, “LEOPARD: Parallel Optimal Deep Echo State Network Prediction Improves Service Coverage for UAV-assisted Outdoor Hotspots”,  **IEEE Trans. Cogn. Commun. Netw.**, vol. 8, no. 1, pp. 282-295, Mar. 2022. [[Paper]](https://ieeexplore.ieee.org/document/9548955) [[Slides]](https://haoran-peng.github.io/Slides/LEOPARD_TCCN.pdf) [[Code]](https://github.com/Haoran-Peng/parallel_deep_echo_state_network)
+4. **Haoran Peng**, Ang-Hsun Tsai, Li-Chun Wang, and Zhu Han, “LEOPARD: Parallel Optimal Deep Echo State Network Prediction Improves Service Coverage for UAV-assisted Outdoor Hotspots”,  **IEEE Trans. Cogn. Commun. Netw.**, vol. 8, no. 1, pp. 282-295, Mar. 2022. [[Paper]](https://ieeexplore.ieee.org/document/9548955) [[Slides]](https://haoran-peng.github.io/Slides/LEOPARD_TCCN.pdf) [[Code]](https://github.com/Haoran-Peng/parallel_deep_echo_state_network) **(中科院一区)**
 
 5. **Haoran Peng**, Cheng-Yuan Ho, Yen-Ting Lin, and Li-Chun Wang, “Energy-Efficient Reconfigurable Intelligent Surfaces for Prioritized Spectrum Sharing: A Two-User Case”, has submitted to **IEEE Trans. Wireless Commun.** *(under review)*.
    
