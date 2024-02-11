@@ -1,9 +1,12 @@
 # Haoran Peng (彭浩然)
 
+Postdoctoral Research Associate<br>
+Department of Information Engineering<br>
+The Chinese University of Hong Kong<br>
 <!-- Postdoctoral Fellow in ICCL Lab<br>
 Department of Electrical and Computer Engineering<br>
 National Yang Ming Chiao Tung University<br>
-(Previouly National Chiao Tung University)<br>
+(Previously National Chiao Tung University)<br>
 Rm. 516, MIRC Bldg, 1001 University Road<br>
 Hsinchu, Taiwan 300<br> -->
 Email: hrmpeng[@]gmail.com / haoranpeng[@]cuhk.edu.hk
@@ -12,7 +15,7 @@ Email: hrmpeng[@]gmail.com / haoranpeng[@]cuhk.edu.hk
 [[Google Scholar]](https://scholar.google.com/citations?user=AQrrNcsAAAAJ&hl=en)
 
 # About me
-I am a postdoctoral research associate at *The Chinese University of Hong Kong (CUHK)* supervised by Prof. Angela Yingjun Zhang. Prior to that, I received my Ph.D. degree (Honors, 杰出毕业生) in Electronics and Electrical Engineering from National Yang Ming Chiao Tung University (previouly National Chiao Tung University) in 2022, where I was advised by [Prof. Li-Chun Wang](https://wang.web.nycu.edu.tw/). Previously, I received my bachelor degree at University of Electronic Science and Technology of China (UESTC), Chengdu, China in 2015. From 2015 to 2018, I was a full-time software engineer and launched a tech startup with my friends and classmates. Unfortunately, it didn't succeed. <br>
+I am a postdoctoral research associate at *The Chinese University of Hong Kong (CUHK)* supervised by [Prof. Angela Yingjun Zhang](https://staff.ie.cuhk.edu.hk/~yjzhang/). Prior to that, I received my Ph.D. degree (Honors, 杰出毕业生) in Electronics and Electrical Engineering from National Yang Ming Chiao Tung University (previously National Chiao Tung University) in 2022, where I was advised by [Prof. Li-Chun Wang](https://wang.web.nycu.edu.tw/). Previously, I received my bachelor degree at the University of Electronic Science and Technology of China (UESTC), Chengdu, China in 2015. From 2015 to 2018, I was a full-time software engineer and launched a tech startup with my friends and classmates. Unfortunately, it didn't succeed. <br>
 
 I did a visiting research at Rochester Institute of Technology in the summer of 2021, advised by [Prof. Shanchieh Yang](https://www.rit.edu/directory/sjyeec-shanchieh-yang) and [Prof. Hanif Rahbari](http://rahbari.csec.rit.edu/).
 
