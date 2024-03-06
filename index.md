@@ -1,9 +1,9 @@
 # Haoran Peng (彭浩然)
 
-Postdoctoral Research Associate<br>
+<!-- Postdoctoral Research Associate<br>
 Department of Information Engineering<br>
 The Chinese University of Hong Kong<br>
-<!-- Postdoctoral Fellow in ICCL Lab<br>
+Postdoctoral Fellow in ICCL Lab<br>
 Department of Electrical and Computer Engineering<br>
 National Yang Ming Chiao Tung University<br>
 (Previously National Chiao Tung University)<br>
